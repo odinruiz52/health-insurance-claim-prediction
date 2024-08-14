@@ -1,6 +1,6 @@
 # Health Insurance Claim Prediction
 
-This project predicts the approval status of health insurance claims based on various input features. The project includes a Flask web application for user interaction, a command-line tool for making predictions, and a utility script for counting the number of data points in the dataset.
+This project aims to forecast the acceptance status of health insurance claims using input characteristics. It comprises a user Flask web application, a command line tool, for making forecasts and a utility script, for tallying the datasets data points.
 
 ## Project Structure
 
